@@ -3,6 +3,7 @@ Brian Caswell, J. B. (2007). Snort Intrusion Detection and Prevention Toolkit. S
 
 Ruostemaa, J. (2020). Install Snort Ubuntu. Opgehaald van Upcloud: https://upcloud.com/community/tutorials/install-snort-ubuntu/
 
+Berkeley Packet Filter (BPF) syntax
 https://biot.com/capstats/bpf.html
 
 [source,console]
