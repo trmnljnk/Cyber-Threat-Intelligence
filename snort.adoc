@@ -1,0 +1,13 @@
+
+
+[source,console]
+----
+snort -c /etc/snort/snort.conf
+----
+
+
+
+[source,console]
+----
+Parsing Rules file "/etc/snort/snort.conf"
+----
