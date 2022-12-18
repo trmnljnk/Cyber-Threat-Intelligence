@@ -1,0 +1,25 @@
+# Cyber Threat Intelligence
+
+
+
+
+CSIS (Center For Strategic International Studies)
+
+https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents
+
+
+Cyber Threat Intelligence = "Inlichtingen over Cyber Security bedreigingen"
+
+Het verzamelen van informatie, kennis of voorkennis (NCA, CIA)
+
+dus
+
+* gegevens verzamelen
+* gegevens omzetten in bruikbare informatie
+
+voor
+
+* organisaties om zich te beschermen tegen Cyber Secusity Bedreigingen (Threats)
+
+
+use cases = gebruikssituaties
