@@ -16,3 +16,8 @@ snort -c /etc/snort/snort.conf
 ----
 Parsing Rules file "/etc/snort/snort.conf"
 ----
+
+[source,console]
+----
+sudo snort -i ens33  -l /var/log/snort -b
+----
